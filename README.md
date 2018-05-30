@@ -22,5 +22,5 @@ Recreate the classic *Frogger* arcade game.
     1. JavaScript must be written with object-oriented programming in mind.
 
 ### Extra Information
-1. [Project rubric](https://review.udacity.com/?_ga=1.242571394.1230547285.1451946706#!/rubrics/15/view)\
+1. [Project rubric](https://review.udacity.com/?_ga=1.242571394.1230547285.1451946706#!/rubrics/15/view)
 2. [How to get started guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true)
