@@ -1,3 +1,4 @@
+'use-strict';
 /* Engine.js */
 var Engine = (function (global) {
   // Define the variables I will need
